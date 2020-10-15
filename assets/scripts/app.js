@@ -23,9 +23,6 @@ const Portfolio = function() {
 				text: "Django",
 				weight: 14
 			}, {
-				text: "Programming",
-				weight: 7
-			}, {
 				text: "Python",
 				weight: 10
 			}, {
