@@ -2,47 +2,32 @@ const Portfolio = function() {
 	function makeWords() {
 		var words = [
 			{
-				text: "CSS3",
+				text: "css3",
 				weight: 8
 			}, {
-				text: "HTML5",
+				text: "javascript",
 				weight: 14
 			}, {
-				text: "Javascript",
-				weight: 14
+				text: "jquery",
+				weight: 3
 			}, {
-				text: "Reactjs",
-				weight: 10
+				text: "programming",
+				weight: 7
 			}, {
-				text: "Nodejs",
-				weight: 14
-			}, {
-				text: "Expressjs",
-				weight: 14
-			}, {
-				text: "Django",
-				weight: 14
-			}, {
-				text: "Python",
+				text: "python",
 				weight: 10
 			}, {
 				text: "java",
 				weight: 9
 			}, {
-				text: "C",
-				weight: 7
+				text: "bhanukiran",
+				weight: 15
 			}, {
-				text: "C++",
+				text: "C",
 				weight: 7
 			},{
 				text: "Cyber Security",
 				weight: 7
-			}, {
-				text: "MySQL",
-				weight: 9
-			}, {
-				text: "MongoDB",
-				weight: 8
 			}
 		];
 		return words;
